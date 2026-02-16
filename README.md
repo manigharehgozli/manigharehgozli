@@ -1,5 +1,5 @@
-Hi I'm Mani🕷
-🎃19 year's old programmer
-👾Computer engineering student
-🦉Front end developer
-🎯I creat wonderful and usefull website
+Hi I'm Mani🕷<br/>
+🎃19 year's old programmer<br/>
+👾Computer engineering student<br/>
+🦉Front end developer<br/>
+🎯I creat wonderful and usefull website<br/>
