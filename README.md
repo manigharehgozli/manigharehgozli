@@ -1,9 +1,5 @@
-- 👋 Hi, I’m mani
-- 👀 I’m interested in painting and programming
-- 🌱 I’m currently learning
-- 📫 How to reach me ...
-
-<!---
-manigharehgozli/manigharehgozli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm Mani🕷
+🎃19 year's old programmer
+👾Computer engineering student
+🦉Front end developer
+🎯I creat wonderful and usefull website
