@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100..900&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,6 +7,19 @@
   padding: 0;
   margin: 0;
 }
+
+@layer base {
+  html {
+    font-family: "Work Sans", system-ui, sans-serif;
+  }
+}
 .background {
   background-color: hsl(275, 100%, 97%);
+}
+
+h4 {
+  color: hsl(292, 42%, 14%);
+}
+p {
+  color: hsl(292, 16%, 49%);
 }
